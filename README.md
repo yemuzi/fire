@@ -1,9 +1,9 @@
-# ¹¦ÄÜ
-»ğÔÖ¼ì²â£¬ÑÌÎí¼ì²âSDK
+ï»¿# åŠŸèƒ½
+ç«ç¾æ£€æµ‹ï¼ŒçƒŸé›¾æ£€æµ‹SDK
 
-# »·¾³
+# ç¯å¢ƒ
 64 bit jdk 8+ and win 10+
 
-# Ğ§¹û
+# æ•ˆæœ
 ![1](https://github.com/yemuzi/fire/blob/master/samplecode/out.jpg) 
 
